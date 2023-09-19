@@ -1,0 +1,37 @@
+leftnav:
+- identifier: a34d46f3-dd08-4116-7490-77db5ce9cc2d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0b1de0f3-486d-4c6a-4c57-57185525a3b8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7fb3dc3d-92b3-1753-af39-98394628ea7e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 165570ff-e0d9-3803-2cfe-f9233c98342f
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 40
+- identifier: 45c20de8-b960-6734-5de3-018f21fd8cd8
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: a2985482-0758-c1ef-a6ea-42f1d63e5cb7
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 2109edee-721a-f9ce-a61f-e50482c54cb1
+  name: Projects
+  pageRef: /pages/projects
+  weight: 70
+- identifier: cb1c0b58-8252-b701-161e-cb975e8e5162
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 80
+- identifier: 713171a5-bfcd-199f-6efd-5372c2a9351e
+  name: Recitation Problems
+  pageRef: /pages/recitation-problems
+  weight: 90
